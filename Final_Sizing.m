@@ -2,7 +2,6 @@ clc
 clear all
 close all
 
-%% Quiz Week 2
 p = 0.2360; % Pressure Ratio (35,000 ft SL)
 rho = .953;   % Density ratio sea level (84F hot day)
 PAX = 250;
