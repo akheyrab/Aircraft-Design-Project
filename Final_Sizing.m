@@ -610,7 +610,7 @@ for sweep1 = 10:5:35
     hold on
     plot(AR,DOC,'LineWidth',2);
     legend('Sweep = 10 degs','Sweep = 15 degs','Sweep = 20 degs','Sweep = 25 degs','Sweep = 30 degs','Sweep = 35 degs','Sweep = 40 degs')
-    title('DOC vs. Aspect Ratio for Advanced Aircraft')
+    title('DOC vs. Aspect Ratio for Aircraft')
     xlabel('Aspect Ratio (AR)')
     ylabel('DOC ($/PAX*mile)')
     grid on
